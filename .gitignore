@@ -1,1 +1,14 @@
+# Exclude the entire AOT311 folder
 AOT311/
+
+# Exclude the entire GML folder
+GML/
+
+# Exclude all files in the Code folder, but allow specific files
+Code/*
+!Code/aot.ipynb
+!Code/graph.png
+
+# Exclude all files in the Data folder, but allow specific files
+Data/*
+!Data/characters.json
