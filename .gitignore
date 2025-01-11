@@ -1,5 +1,5 @@
-# Exclude the entire AOT311 folder
-AOT311/
+# Exclude the entire .venv folder
+.venv/
 
 # Exclude the entire GML folder
 GML/
